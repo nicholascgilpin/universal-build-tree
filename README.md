@@ -2,7 +2,7 @@
 An open graph database describing the minimum resources and processes needed to build anything. 
 
 ## Goal
-To provide a quick human and machine readable overview of resources and actions needed to build anything. The overview can be used for project planning, game design, or quick resource need estimates. 
+To provide a quick human and machine readable overview of resources and actions needed to build anything. The resulting action graph output can be used for supply chain analysis, project planning, game design, or quick resource need estimates. 
 
 ### What's not a goal?
 The project is only interested in the relationships between nodes. Collecting information about resources and processes is not a goal. Users are expected to use the application as a list of pointers to additional data. The only reason for the included descriptions are for identifying what other data needs to be gathered. 
